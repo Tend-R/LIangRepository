@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 39303564
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: end.ab
+      Dependencies: {}
+    Info_1:
+      Name: middle.ab
+      Dependencies: {}
+    Info_2:
+      Name: startprefab.ab
+      Dependencies: {}
+    Info_3:
+      Name: start.ab
+      Dependencies: {}
